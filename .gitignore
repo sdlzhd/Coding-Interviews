@@ -24,3 +24,6 @@
 hs_err_pid*
 
 /.idea/
+Coding-Interviews.iml
+out/
+src/t2/
