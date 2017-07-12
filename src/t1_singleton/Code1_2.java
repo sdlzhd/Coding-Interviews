@@ -8,8 +8,6 @@ public final class Code1_2 {
     private Code1_2() {
     }
 
-
-
     private static Code1_2 instance = null;
 
     public static synchronized Code1_2 getInstance() {

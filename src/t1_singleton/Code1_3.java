@@ -8,7 +8,6 @@ public class Code1_3 {
     private Code1_3() {
     }
 
-
     private static Code1_3 instance = null;
 
     public static Code1_3 getInstance() {
