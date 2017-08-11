@@ -18,12 +18,12 @@ Coding-Interviews 是 《剑指 Offer》的英文版标题，在此就用其做�
 2. 数组中的重复数字
     - 找出数组中的重复数字(code2_1)
 
-3. 排序(o1_sort)
-    - 选择排序(selecttion_sort)
-    - 插入排序(inserttion_sort)
-    - 冒泡排序(bubble_sort)
-    - 归并排序(merge_sort)
-    - 快速排序(quick_sort)
-    - 希尔排序(shell_sort)
-    - 堆排序(heap_sort)
+3. 常见的排序算法(o1_sort)
+    - 选择排序(selecttionSort)
+    - 插入排序(inserttionSort)
+    - 冒泡排序(bubbleSort)
+    - 归并排序(mergeSort)xia
+    - 快速排序(quickSort)
+    - 希尔排序(shellSort)
+    - 堆排序(heapSort)
     
