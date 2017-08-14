@@ -17,8 +17,10 @@ Coding-Interviews 是 《剑指 Offer》的英文版标题，在此就用其做�
     - **静态内部类实现(code1_5)**
 2. 数组中的重复数字
     - 找出数组中的重复数字(code2_1)
+    - 不修改数组找出重复的数组(code2_2)
+    - 二维数组查找是否存在某个数(code2_3)
 
-3. 常见的排序算法(o1_sort)
+4. 常见的排序算法(o1_sort)
     - 选择排序(selecttionSort)
     - 插入排序(inserttionSort)
     - 冒泡排序(bubbleSort)
