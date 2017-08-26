@@ -10,22 +10,30 @@ Coding-Interviews 是 《剑指 Offer》的英文版标题，在此就用其做�
 ## 目录
 
 1. 实现 Singleton 模式(t1_singleton)
-    - 只适用于单线程环境(code1_1)
-    - 效率低的多线程实现(code1_2)
-    - 改进的多线程实现(code1_3)
-    - **静态构造函数实现(code1_4)**
-    - **静态内部类实现(code1_5)**
-2. 数组中的重复数字
-    - 找出数组中的重复数字(code2_1)
-    - 不修改数组找出重复的数组(code2_2)
-    - 二维数组查找是否存在某个数(code2_3)
+    - 只适用于单线程环境(Code1_1)
+    - 效率低的多线程实现(Code1_2)
+    - 改进的多线程实现(Code1_3)
+    - **静态构造函数实现(Code1_4)**
+    - **静态内部类实现(Code1_5)**
+2. 数组中的重复数字(t2_array)
+    - 找出数组中的重复数字(Code2_1)
+    - 不修改数组找出重复的数组(Code2_2)
+    - 二维数组查找是否存在某个数(Code2_3)
+3. 字符串
+4. 链表(t4_linklist)
+    - 从尾到头打印链表(Code4_1)
+    - 删除链表节点(Code4_2)
+    - 链表中倒数第 k 个节点(Code4_3)
+    - 合并两个排序的链表(Code4_4)
+    - 两个链表的第一个公共节点(Code4_5)
 
-4. 常见的排序算法(o1_sort)
+- 常见的排序算法(o1_sort)
     - 选择排序(selecttionSort)
     - 插入排序(inserttionSort)
     - 冒泡排序(bubbleSort)
     - 归并排序(mergeSort)xia
     - 快速排序(quickSort)
     - 希尔排序(shellSort)
-    - 堆排序(heapSort)
+    - 堆排序(heapSort
+
     
